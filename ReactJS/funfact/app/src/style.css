@@ -1,0 +1,46 @@
+h3 {
+    padding: 0;
+    display:inline;
+    color:lightblue
+    
+  }
+  h4 {
+    margin-left:210px;
+    display: inline;
+    color:white;
+  }
+main{
+    background-color:#181818;
+    padding: 10px 0px; 
+    width:50%;
+    height: 250px;
+    color:white;
+    padding-block:10px;
+    line-height: 1.6; 
+    background-image:url(./images/reacts.png);
+    background-repeat:no-repeat;
+    background-position-x :right;
+    background-position-x :100%;
+}
+
+.main--facts > li::marker {
+  font-size:1.4rem;
+  color:#61dafb;
+  
+}
+nav{
+    background-color: black;
+    padding: 10px 0px; 
+    width:50%;
+}
+.light{
+  margin-left:30px;
+    display: inline;
+    color:white;
+}
+.dark{
+   margin-left:5px;
+    display: inline;
+    padding:9px;
+    color:white;
+}

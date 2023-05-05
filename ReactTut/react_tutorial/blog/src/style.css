@@ -1,0 +1,17 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:0
+}
+nav{
+    background-color:#181818;
+    padding: 10px 0px; 
+    width:40%;
+    height: 200px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:inline;
+    color:lightblue
+}

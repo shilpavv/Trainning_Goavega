@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "simple knowledge base App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "shilpa",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.18.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.3",
+    "express-validator": "5.3.1",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.0.5",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "pug": "^3.0.2",
+    "validator": "^13.9.0"
+  }
+}
